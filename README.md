@@ -1,6 +1,6 @@
 ## Welcome to SpoCon
 
-SpoCon is created to support librespot projects with package wrapper and a frontend
+SpoCon is created to support [librespot projects](https://github.com/librespot-org/librespot) with package wrapper and a frontend
 
 ### Project
 
